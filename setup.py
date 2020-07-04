@@ -11,7 +11,7 @@ setup(
 
     name='serverhub',  
 
-    version='0.0.1',  
+    version='0.0.2',  
 
     description='serverhub backend & tools',  
 
@@ -50,7 +50,7 @@ setup(
 
     python_requires='>=3.5',
 
-    install_requires=[], 
+    install_requires=['psutil'], 
 
     entry_points={   
         'console_scripts': [

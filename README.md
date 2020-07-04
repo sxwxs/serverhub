@@ -1,6 +1,8 @@
 # Server Hub
 
-[pypi](https://pypi.org/project/serverhub/0.0.1/)        [演示视频（B站）](https://www.bilibili.com/video/BV1WJ41187JQ)
+[pypi](https://pypi.org/project/serverhub/0.0.1/)        
+
+[演示视频（B站）](https://www.bilibili.com/video/BV1WJ41187JQ)
 
 Server Hub 服务端 + 工具。
 
